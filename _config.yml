@@ -185,10 +185,7 @@ compress_html:
     envs: [development]
 
 exclude:
-  - tmp/
-  - vendor/
-  - Gemfile
-  - Gemfile.lock
+  - vendor
   - "*.gem"
   - "*.gemspec"
   - docs
