@@ -108,4 +108,4 @@ From blockquotes above (result of taking strings from the ***.run*** file), we c
 
 > picoCTF{****6Y0Ur_F1r57_F***9*********}
 
-which looks like a flag format from picoCTF, let's try to submit the flag, and *voila*, you just solve the challange
+which looks like a flag format from picoCTF, let's try to submit the flag, and *voila!*, you just solve the challange

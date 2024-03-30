@@ -17,7 +17,7 @@ timezone:
 
 title: Garit Ahsanut Taqwim # the main title
 
-tagline: my personal blog # it will display as the sub-title
+tagline: personal blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -77,7 +77,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/87358928?v=4
+avatar: https://media.licdn.com/dms/image/D5603AQFoUSKe_7VSug/profile-displayphoto-shrink_200_200/0/1686744447582?e=1717027200&v=beta&t=q6rEiG6jM4ooa8QE7w9wPPZea-TpdSa5HO_Bq9zov8Y
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
