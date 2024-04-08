@@ -1,7 +1,7 @@
 ---
-title: "file-run1 | Writeups"
+title: "file-run1 | picoCTF |CTF Writeups"
 date: 2024-03-25 20:14 +0300
-categories: [Writeups]
+categories: [CTF Writeups]
 tags: [Reverse Engineering, picoCTF2022]
 ---
 

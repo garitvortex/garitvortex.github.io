@@ -1,13 +1,11 @@
 ---
-title: "Safe Opener | Writeups"
+title: "Safe Opener | picoCTF |CTF Writeups"
 date: 2024-03-25 20:14 +0300
-categories: [Writeups]
+categories: [CTF Writeups]
 tags: [Reverse Engineering, picoCTF2022]
 ---
 
 # Safe Opener | Instruction and Information
-
-[Challange link](https://play.picoctf.org/practice/challenge/294?category=3&page=2)
 
 ![Information and Instruction](../assets/images/RE/safe_opener/safe_opener_ins.png)
 
@@ -32,7 +30,7 @@ after installing ***JDK***, I can compile and run the ***SafeOpener*** file,
 
 >javac SafeOpener.java<br> (This command will create ***.class** java file that can be run)<br>
 
-But, usually, I tend to read the code file first, before running it (with the intension and hope that maybe I will get hint or understand some or all of the code file flow). So, I concenate the ***SafeOpener.java*** file (not the ***SafeOpener.class*** file), and get this following result:
+But, usually, I tend to read the code file first, before running it (with the intension and hope that maybe I will get hint or understand some or all of the code file flow). So, I concatenate the ***SafeOpener.java*** file (not the ***SafeOpener.class*** file), and get this following result:
 
 ![concatenating SafeOpener.java](../assets/images/RE/safe_opener/safe_opener_cat.png)
 
